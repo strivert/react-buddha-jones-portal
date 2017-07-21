@@ -27,5 +27,5 @@ This project was created to bring Buddha Jones' management and administration me
 
 ### How to build API documentation
 
-1. In `/api/docs` directory run `bundle exec middleman build --clean`.
+ 1. In `/api/docs` directory run `bundle exec middleman build --clean`.
 2. Deploy files from `/api/docs/build` directory to end server.
