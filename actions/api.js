@@ -63,6 +63,7 @@ export const ASSIGN_MANAGEMENT_TO_CAMPAIGN      = '/assign-management-to-campaig
 export const WORK_STAGE                         = '/work-stage';
 export const OUTSIDE_COST                       = '/outside-cost';
 export const STAFF                              = '/staff';
+export const GRAPHICS_REQUEST                   =  '/graphics-request';
 
 export const requestConfig = {
     headers: {

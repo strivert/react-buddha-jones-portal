@@ -118,7 +118,7 @@
         "component": "./routes/Graphics/GraphicsRequestList"
     },
     {
-        "path": "/graphic/graphics-request/:requestId?",
+        "path": "/graphic/graphics-request/:requestId?/:fromRequestsPage?",
         "component": "./routes/Graphics/GraphicsRequest"
     }
 ]
