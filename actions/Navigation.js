@@ -20,7 +20,8 @@ export default function ActionsNavigation(state = {
                 { path: '/time-tracking/create-entry', title: 'Create time entry' },
                 { path: '/editors/project-updates', title: 'Update project progress' },
                 { path: '/editors/updates', title: 'Editors updates' },
-                { path: '/finish/request', title: 'Finish request' }
+                { path: '/finish/request', title: 'Finish request' },
+                { path: '/graphics', title: 'Graphics Request' }
             ]
         },
         {
@@ -30,8 +31,7 @@ export default function ActionsNavigation(state = {
                 { path: '/estimates', title: 'Estimate & Quote' },
                 { path: '/spot/billing', title: 'Spot Billing' },
                 { path: '/customer/billing', title: 'Customer' },
-                { path: '/customer/pricing', title: 'Customer rate card' },
-                { path: '/graphics', title: 'Graphics Request' }
+                { path: '/customer/pricing', title: 'Customer rate card' }
             ]
         },
         {
